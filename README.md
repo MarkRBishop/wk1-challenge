@@ -2,7 +2,8 @@
 
 ## Description
 This excercise was to change an existing code for a website to fulfill the User's desire to follow accessibility standards
-It demonstrated the ability to edit pre-existing code to add a feature (accessibility) without changing the functionality of the code itself
+It demonstrated the ability to edit pre-existing code to add a feature (accessibility) without changing the functionality of the code itself.
+This excercise also provided an opportunity to Debug code as well, as certain aspects of the code were missing, causing the product to not look identical to what the finished product should look like. Even though this was not directly stated in the acceptance criteria that was initially provided by the user. 
 Below is the criteria provided by the user.
 
 
@@ -43,3 +44,9 @@ To clean up the css code, I moved a section of code further up in to better refl
 To fulfill the final criteria of the user, I added a title more fitting to the application.
 
 Lastly I cleaned up the code, consolidating certain css selectors that had Identical code.
+
+## Credits
+N/A
+
+## License
+This code does not have a license.
