@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Setting up the style for the header and attributes of certain elements contained within the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +42,7 @@ body {
     margin-left: 25px;
 }
 
+/* Changes the looks of the links imbeded in the application */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Large background image to be displayed on the page. */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* Changes how the content of the page is formated and displayed */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* Used to clearly define the division of content */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -102,6 +107,7 @@ p {
     color: #ffffff;
 }
 
+/* Creating uniform elements throughout the page*/
 .search-engine-optimization img {
     max-height: 200px;
 }
