@@ -45,8 +45,10 @@ To fulfill the final criteria of the user, I added a title more fitting to the a
 
 Lastly I cleaned up the code, consolidating certain css selectors that had Identical code.
 
-## Credits
-N/A
+## Link 
 
-## License
-This code does not have a license.
+https://markrbishop.github.io/wk1-challenge/
+
+!https://github.com/MarkRBishop/wk1-challenge/blob/main/wk1-challenge-ss1.png
+
+!https://github.com/MarkRBishop/wk1-challenge/blob/main/wk1-challenge-ss2.png
