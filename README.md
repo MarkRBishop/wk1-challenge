@@ -49,6 +49,6 @@ Lastly I cleaned up the code, consolidating certain css selectors that had Ident
 
 https://markrbishop.github.io/wk1-challenge/
 
-!(https://github.com/MarkRBishop/wk1-challenge/blob/main/wk1-challenge-ss1.png)
+https://github.com/MarkRBishop/wk1-challenge/blob/main/wk1-challenge-ss1.png
 
-!(https://github.com/MarkRBishop/wk1-challenge/blob/main/wk1-challenge-ss2.png)
+https://github.com/MarkRBishop/wk1-challenge/blob/main/wk1-challenge-ss2.png
